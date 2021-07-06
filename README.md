@@ -13,16 +13,16 @@
 
 ## 2. 사용 기술
 #### `Back-end`
-  - Java 9
-  - MyBatis
+  - <img src="https://img.shields.io/badge/9-Java-red"/> 
+  - <img src="https://img.shields.io/badge/Mybatis-grey"/>
   - Servlet
-  - Python 3.7
-  - Oracle 11
-  - node.js
+  - <img src="https://img.shields.io/badge/3.9-Python-blue"/>
+  - <img src="https://img.shields.io/badge/11-Oracle-yellow"/>
+  - <img src="https://img.shields.io/badge/node.js-green"/>
  
 #### `Front-end`
-  - javascript
-  - html/css
+  - <img src="https://img.shields.io/badge/Javacript-red"/>
+  - <img src="https://img.shields.io/badge/html/css-orange"/>
 
 </br>
 
