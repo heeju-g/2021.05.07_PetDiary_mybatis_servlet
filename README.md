@@ -25,7 +25,8 @@
 
 </br>
 
-## 3. ERD 설계
+## 3. ERD 설계   
+![](https://www.notion.so/erd-6a44672a4cd64a11bb5d2245a7cde6cf#a2f64a55ca7242f88561e02bfe8a41f8)
 
 
 
