@@ -26,7 +26,7 @@
 </br>
 
 ## 3. ERD 설계   
-![](https://www.notion.so/erd-6a44672a4cd64a11bb5d2245a7cde6cf#a2f64a55ca7242f88561e02bfe8a41f8)
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3af238f9-c97e-4031-8aa2-38ddbf5ddec6%2FCopy_of_(1%EC%B0%A8_%EC%88%98%EC%A0%95)%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC_%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC.png?table=block&id=a2f64a55-ca72-42f8-8561-e02bfe8a41f8&spaceId=02035cac-9dbb-4a33-9431-b4b67098f6ba&width=2840&userId=7b670629-fe67-41bb-a78d-7cbf6af5b506&cache=v2)
 
 
 
