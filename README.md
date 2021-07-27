@@ -15,7 +15,6 @@
 #### `Back-end`
   - <img src="https://img.shields.io/badge/9-Java-red"/> 
   - <img src="https://img.shields.io/badge/Mybatis-grey"/>
-  - Servlet
   - <img src="https://img.shields.io/badge/3.9-Python-blue"/>
   - <img src="https://img.shields.io/badge/11-Oracle-yellow"/>
   - <img src="https://img.shields.io/badge/node.js-green"/>
