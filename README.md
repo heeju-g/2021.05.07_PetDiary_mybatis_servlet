@@ -43,10 +43,20 @@
 </br>
 
 ## 3. ERD 설계   
-![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3af238f9-c97e-4031-8aa2-38ddbf5ddec6%2FCopy_of_(1%EC%B0%A8_%EC%88%98%EC%A0%95)%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC_%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC.png?table=block&id=a2f64a55-ca72-42f8-8561-e02bfe8a41f8&spaceId=02035cac-9dbb-4a33-9431-b4b67098f6ba&width=2840&userId=7b670629-fe67-41bb-a78d-7cbf6af5b506&cache=v2)
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3af238f9-c97e-4031-8aa2-38ddbf5ddec6%2FCopy_of_(1%EC%B0%A8_%EC%88%98%EC%A0%95)%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC_%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC.png?table=block&id=a2f64a55-ca72-42f8-8561-e02bfe8a41f8&spaceId=02035cac-9dbb-4a33-9431-b4b67098f6ba&width=2840&userId=7b670629-fe67-41bb-a78d-7cbf6af5b506&cache=v2)   
 
-## 4. 트러블 슈팅
-### 4.1. 지도 api와 데이터베이스 연결
+##4. 담당 기능   
+
+-	**병원, 여행일정 게시판**   
+1)	병원 : 데이터베이스에 등록된 병원에 화상상담을 예약할 수 있도록 구현.   
+2)	여행일정 : 지도기능을 활용하여 여행일정을 작성하고 마이페이지에서 조회하도록 구현.   
+-	**지도**   
+   키워드 검색을 통한 원하는 장소의 상세페이지 조회 / 장소들 간의 거리, 이동시간 조회 / 데이터베이스에 등록된 장소를 마커로 표시하여 위치조회, 상세정보 조회   
+-	**나와 닮은 동물 찾기**   
+    머신러닝 기능을 활용하여 닮은 동물상을 출력해주는 기능.
+
+## 5. 트러블 슈팅
+### 5.1. 지도 api와 데이터베이스 연결
 - 지도에서 특정 버튼을 클릭할 시, 데이터베이스에 등록된 업체(병원 및 가게)들을 지도 상에 마커로 표시하여 사용자가 한 눈에 확인할 수 있도록 구현하고자 하였습니다. 해당 기능을 구현하기 위해 세 가지 질문에 관한 해결 방안을 생각해보았습니다.   
    
   - **'도로명 주소, 업체명이 담긴 리스트에서 어떻게 하나씩 가져와 뿌려줄 수 있을까'**   
