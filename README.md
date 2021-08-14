@@ -47,7 +47,7 @@
 </br></br>
 
 ## 4. 담당 기능   
-- 기능 시연 이미지 링크 : [Click](https://editor.wix.com/html/editor/web/renderer/edit/9205e122-3f0f-4ded-8d41-2073bde16219?metaSiteId=a5e92713-bdae-4c5b-8b7b-079485adf2d2 "portfolio link")   
+- 기능 시연 이미지 링크 : [Click](https://mmm11271227.wixsite.com/dev2021/life-with-pet "portfolio link")   
 
 -	**병원, 여행일정 게시판**   
 1)	병원 : 데이터베이스에 등록된 병원에 화상상담을 예약할 수 있도록 구현.   
