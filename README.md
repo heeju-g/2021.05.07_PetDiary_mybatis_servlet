@@ -1,6 +1,6 @@
 # :pushpin: Pet Diary
 >반려동물과 함께 하는 삶에 필요한 기능을 모은 웹사이트    
->기획안 링크 : [Click](https://www.notion.so/9e7fe502eb814e82a649b57b8a466582 "notion link")   
+>기획안 링크 : [Click]("notion link")   
 
 ### 프로젝트 전체 기능     
 
